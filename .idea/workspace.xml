@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9b707ff9-94a7-49ea-9812-10e66172d090" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-spotify-web-playback" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-reddit-clone" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -46,6 +44,12 @@
       <updated>1605437425396</updated>
       <workItem from="1605437426898" duration="4061000" />
       <workItem from="1605442248866" duration="4217000" />
+      <workItem from="1605492224720" duration="3457000" />
+      <workItem from="1605524776473" duration="1251000" />
+      <workItem from="1605680816161" duration="1219000" />
+      <workItem from="1605702600719" duration="602000" />
+      <workItem from="1605765734794" duration="1221000" />
+      <workItem from="1605872334209" duration="614000" />
     </task>
     <servers />
   </component>
@@ -53,10 +57,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2607" y="216" width="617" height="690" key="FileChooserDialogImpl" timestamp="1605448459448">
+    <state x="2922" y="184" width="617" height="690" key="FileChooserDialogImpl" timestamp="1605872347193">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2607" y="216" width="617" height="690" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605448459448" />
+    <state x="2922" y="184" width="617" height="690" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605872347193" />
     <state x="2680" y="75" width="1141" height="883" key="SettingsEditor" timestamp="1605440252655">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
