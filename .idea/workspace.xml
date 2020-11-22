@@ -1,9 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b707ff9-94a7-49ea-9812-10e66172d090" name="Default Changelist" comment="">
+    <list default="true" id="9b707ff9-94a7-49ea-9812-10e66172d090" name="Default Changelist" comment="added code">
+      <change afterPath="$PROJECT_DIR$/config/keys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/analytics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/position.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/passport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Position.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/analytics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/position.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/03052018-222552_827-cat.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/errorHandler.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,10 +66,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-reddit-clone" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\fullstack" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -50,20 +92,64 @@
       <workItem from="1605702600719" duration="602000" />
       <workItem from="1605765734794" duration="1221000" />
       <workItem from="1605872334209" duration="614000" />
+      <workItem from="1606035354271" duration="2145000" />
     </task>
+    <task id="LOCAL-00001" summary="added code">
+      <created>1606035514685</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606035514685</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added code" />
+    <option name="LAST_COMMIT_MESSAGE" value="added code" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2922" y="184" width="617" height="690" key="FileChooserDialogImpl" timestamp="1605872347193">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2922" y="184" width="617" height="690" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605872347193" />
+    <state width="1876" height="351" key="GridCell.Tab.0.bottom" timestamp="1606035484089">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606035484089" />
+    <state width="1876" height="351" key="GridCell.Tab.0.center" timestamp="1606035484089">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="351" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606035484089" />
+    <state width="1876" height="351" key="GridCell.Tab.0.left" timestamp="1606035484089">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="351" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606035484089" />
+    <state width="1876" height="351" key="GridCell.Tab.0.right" timestamp="1606035484089">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="351" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606035484089" />
     <state x="2680" y="75" width="1141" height="883" key="SettingsEditor" timestamp="1605440252655">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2680" y="75" width="1141" height="883" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605440252655" />
+    <state x="2372" y="188" key="Vcs.Push.Dialog.v2" timestamp="1606035517224">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2372" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606035517224" />
   </component>
 </project>
